@@ -1,0 +1,30 @@
+.izq{
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+background-image:url(src/image/5570.png);
+}
+.text{
+    position: absolute;
+    width: 496px;
+    height: 60px;
+    left: 133px;
+    top: 435px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+    
+    
+    color: #4B4B4B;
+}
+.text span{
+    color:rgb(40, 99, 55) ;
+}
+
+

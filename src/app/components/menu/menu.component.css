@@ -1,0 +1,32 @@
+.menu{
+position: absolute;
+width: 256px;
+height: 1384px;
+left: calc(50% - 256px/2 - 592px);
+top: 0px;
+
+/* White */
+
+background: #FFFFFF;
+}
+.logo{
+    position: absolute;
+width: 90px;
+height: 48px;
+left: 83px;
+top: 41px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+
+/* Black */
+
+color: #22242C;
+}
+
+
